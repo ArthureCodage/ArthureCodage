@@ -55,6 +55,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthureCodage&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthureCodage&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ArthureCodage&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArthureCodage&theme=tokyonight&hide_border=true" />
 </p>
