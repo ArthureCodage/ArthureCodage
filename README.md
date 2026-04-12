@@ -55,9 +55,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArthureCodage&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=ArthureCodage&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArthureCodage&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=ArthureCodage&style=flat&color=blue" alt="Profile views" />
 </p>
