@@ -8,6 +8,21 @@
 
 <br/>
 
+## 🔥 Currently active
+
+Repos with commits in October 2026 (primary language as reported by GitHub):
+
+| Project | Language | What it does |
+|---|---|---|
+| **[MediaVault](https://github.com/ArthureCodage/MediaVault)** | TypeScript | Self-hosted media vault & PWA with an Instagram-style feed and TikTok-style reels |
+| **[DonoGram](https://github.com/ArthureCodage/DonoGram)** | JavaScript | Self-hosted Telegram-like messenger: chats, channels, voice messages, reactions, PWA |
+| **[DJ-CANICHE](https://github.com/ArthureCodage/DJ-CANICHE)** | Python | Discord bot: high-quality YouTube music and temporary voice channels |
+| **[DonoTranscode](https://github.com/ArthureCodage/DonoTranscode)** | Python | Simple but complete ffmpeg GUI for Windows: video, images, GIF, audio, cut & merge, NVENC, queue |
+| **[lora-creator](https://github.com/ArthureCodage/lora-creator)** | Python | Train LoRAs with kohya_ss without touching 25 settings — presets for 6 GB cards, SD 1.5 & SDXL/Pony |
+| **[DonoGenSoft](https://github.com/ArthureCodage/DonoGenSoft)** | Shell | kohya_ss + LoRA Creator + Forge Neo installed together with **one command** on vast.ai / RunPod |
+| **[sd-forge-civitai-helper](https://github.com/ArthureCodage/sd-forge-civitai-helper)** | Python | Forge / A1111 extension: download, scan and update CivitAI models, previews and trigger words |
+| **[Pratico-Pratique](https://github.com/ArthureCodage/Pratico-Pratique)** | Shell | One-command install scripts: Ollama and Stable Diffusion WebUI Forge as services on Linux / VPS |
+
 ## 🎨 Stable Diffusion & AI tools
 
 | Project | What it does |
@@ -26,7 +41,7 @@
 | **[MediaVault](https://github.com/ArthureCodage/MediaVault)** | Self-hosted media vault & PWA with an Instagram-style feed and TikTok-style reels |
 | **[open-appcontrol](https://github.com/ArthureCodage/open-appcontrol)** | Open-source task manager & network inspector with a 72-hour history rewind |
 | **[DonoGram](https://github.com/ArthureCodage/DonoGram)** | Self-hosted Telegram-like messenger: chats, channels, voice messages, reactions, PWA |
-| **[DJ-CANICHE](https://github.com/ArthureCodage/DJ-CANICHE)** | Discord bot: high-quality YouTube music, AI chat and temporary voice channels |
+| **[DJ-CANICHE](https://github.com/ArthureCodage/DJ-CANICHE)** | Discord bot: high-quality YouTube music and temporary voice channels |
 
 ## 🎮 Guides
 
